@@ -2,5 +2,5 @@
 
 <p align="center">
   You landed on my office github. Have a look at my personal project here 👉
-  <a href="https://github.com/alaspuresujay">Github</a>
+  <a href="https://github.com/sujayalaspure">Github</a>
 </p>
